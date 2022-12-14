@@ -1,4 +1,4 @@
-AIRCRAFT_TYPE
+
 Fighter Jet
 Light Bomber
 Light ground-attack aircraft
