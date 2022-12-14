@@ -1,0 +1,58 @@
+Fighter Jet
+Light Bomber
+Light ground-attack aircraft
+Bomber Jet
+Attack Aircraft
+Military Transport aircraft
+Fixed wing ground attack gunship
+Ground attack aircraft
+Helicopter
+Heavy strategic bomber
+Strategic bomber
+Tactical Bomber
+Transport
+Medium Transport
+Cargo Helicopter
+Heavy-lift cargo helicopter
+Transport Helicopter
+Airliner/transport aircraft
+Early Warning aircraft
+Heavy attack aircraft
+Light Tactical Bomber
+Airborne early warning and control
+Signals Intelligence
+Carrier-based Fighter Jet
+Jet Fighter Bomber
+Fighter Jet Bomber
+Light fighter
+Carrier-base all-weather night Fighter Jet
+Close air support prop gunship
+Close -Support Helicopter
+Rescue Aircraft
+Search and Rescue Helicopter
+Rescue Helicopter
+Heavy-lift Helicopter
+Aerial refuelling aircraft
+Observation Aircraft
+Transport Aircraft
+Light Observation Helicopter
+Observation/ Light Attack Aircraft
+Maritime Patrol Aircraft
+Utility Aircraft
+Light Utility Helicopter
+Reconnaissance Aircraft
+Photographic reconnaissance plane
+Fighter bomber jet
+Fighter jet 
+Utility Helicopter
+Training Aircraft
+Primary Pilot Trainer
+Cargo Prop plane
+Utility Prop plane
+Light Utility Plane
+Anti-submarine helicopter
+Transport Prop Plane
+Weather reconnaissance aircraft
+Carrier-based Early Warning aircraft
+Fighter Prop Plane
+Airliner/ Transport
